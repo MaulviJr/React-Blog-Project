@@ -1,4 +1,4 @@
-# 🚀 MegaBlogProject: A Full-Stack Blog Platform (https://mega-blog-project-2.netlify.app/)
+# 🚀 MegaBlogProject: A Full-Stack Blog Platform
 
 This is a comprehensive, full-stack blogging application built using **React** and leveraging **Appwrite** as the backend service. It features robust user authentication, post management with rich text editing, and a modern, responsive design powered by **Tailwind CSS** and **Flowbite-React**.
 
